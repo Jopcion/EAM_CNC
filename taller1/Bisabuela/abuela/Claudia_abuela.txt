@@ -1,0 +1,5 @@
+nombre: Claudia
+apellido: Riaño
+Estatura: 1.70
+RH: O-
+Email: Claudia@gmail.com

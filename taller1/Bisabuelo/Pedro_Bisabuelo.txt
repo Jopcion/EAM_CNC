@@ -1,0 +1,5 @@
+Nombre: Pedro
+Apellido: Picapiedra
+Estatura: 1.80
+RH: AO
+Email:pedrito@laroca.com
